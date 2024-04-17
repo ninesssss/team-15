@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlad_\\source\\repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\vlad_\\Source\\Repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlad_\\source\\repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\vlad_\\Source\\Repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad_\\source\\repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\vlad_\\Source\\Repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\vlad_\\source\\repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\vlad_\\Source\\Repos\\team-15\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\vlad_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\vlad_\\source\\repos\\team-15\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
